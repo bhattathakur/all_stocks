@@ -1,0 +1,31 @@
+	TICKER	CP	RSI	VOL	AVGVOL	%CHG	ATR	%ATR	SECTOR	IPO	COUNTRY	CATEGORY
+1	NVR	5078.25	52.94	0.01	0.03	0.55	141.56	2.79	Consumer_Discretionary	1998.0	United States	large
+2	BKNG	2348.37	51.31	0.57	0.39	-3.6	62.07	2.64	Consumer_Discretionary	0.0	United States	large
+3	AZO	2513.69	61.7	0.23	0.17	0.94	53.52	2.13	N-A	0.0	United States	large
+4	CMG	1583.89	49.76	0.37	0.49	-1.43	46.46	2.93	Consumer_Discretionary	2006.0	United States	large
+5	MTD	1513.31	47.45	0.16	0.12	-1.39	42.64	2.82	Health_Care	1997.0	Switzerland	large
+6	MPWR	492.02	65.65	0.58	0.83	-3.61	22.63	4.6	Technology	2004.0	United States	large
+7	ORLY	825.32	56.48	0.67	0.76	1.02	20.23	2.45	Consumer_Discretionary	1993.0	United States	large
+8	LRCX	505.0	55.06	1.04	1.1	-2.04	18.27	3.62	Technology	1984.0	United States	large
+9	GWW	656.49	67.99	0.39	0.33	-0.7	17.79	2.71	Consumer_Discretionary	0.0	United States	large
+10	BLK	723.51	43.04	0.63	0.66	1.05	17.63	2.44	Finance	1999.0	United States	large
+11	SEDG	300.71	46.67	1.27	1.34	1.64	17.15	5.7	Technology	2015.0	Israel	large
+12	REGN	757.61	55.1	0.61	0.74	1.72	16.75	2.21	Health_Care	1991.0	United States	large
+13	NOW	458.36	57.23	1.66	1.71	-1.07	16.72	3.65	Technology	2012.0	United States	large
+14	MSCI	549.33	60.36	0.41	0.45	-1.13	16.56	3.01	Finance	0.0	United States	large
+15	TDG	730.47	63.28	0.72	0.56	-2.21	16.51	2.26	Industrials	2006.0	United States	large
+16	EQIX	729.75	57.05	0.28	0.3	-0.4	15.96	2.19	Real_Estate	2000.0	United States	large
+17	IDXX	485.73	55.13	0.35	0.65	-0.21	15.93	3.28	Health_Care	1991.0	United States	large
+18	SIVB	310.03	60.36	0.6	0.61	-1.86	15.92	5.13	Finance	0.0	United States	large
+19	ALGN	315.81	64.64	1.05	1.23	-1.73	15.73	4.98	Health_Care	2001.0	United States	large
+20	INTU	413.52	51.01	1.0	1.18	-1.48	15.34	3.71	Technology	1993.0	United States	large
+21	EPAM	356.49	52.44	0.32	0.29	-2.45	14.98	4.2	Technology	2012.0	United States	large
+22	ENPH	212.07	36.59	6.71	8.02	1.18	14.77	6.96	Technology	2012.0	United States	large
+23	HUM	498.62	51.22	0.83	1.17	1.36	14.56	2.92	Health_Care	0.0	United States	large
+24	TMO	571.41	49.01	0.76	0.98	0.44	14.29	2.5	Industrials	0.0	United States	mega
+25	KLAC	395.68	46.02	0.91	1.07	-2.0	14.19	3.59	Technology	1980.0	United States	large
+26	NOC	463.86	48.39	0.97	1.06	2.21	13.75	2.96	Technology	0.0	United States	large
+27	BIO	471.18	57.58	0.17	0.12	1.16	13.63	2.89	Industrials	1980.0	United States	large
+28	UNH	494.25	51.65	3.42	3.62	1.75	13.59	2.75	Health_Care	0.0	United States	mega
+29	AVGO	593.25	54.2	2.1	1.96	-1.03	13.3	2.24	Technology	2009.0	United States	mega
+30	POOL	369.24	51.63	0.6	0.53	-2.05	13.2	3.57	Industrials	1995.0	United States	large

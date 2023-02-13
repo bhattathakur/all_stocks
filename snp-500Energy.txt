@@ -1,0 +1,20 @@
+	TICKER	CP	RSI	VOL	AVGVOL	%CHG	ATR	%ATR	SECTOR	IPO	COUNTRY	CATEGORY
+1	MRO	27.75	54.35	10.71	10.16	6.2	1.21	4.36	Energy	0.0	United States	large
+2	VLO	140.73	57.31	4.81	4.32	6.12	6.92	4.92	Energy	0.0	United States	large
+3	APA	43.56	49.41	7.83	6.32	6.11	1.76	4.04	Energy	0.0	United States	large
+4	FANG	149.29	58.36	2.82	2.2	5.53	4.49	3.01	Energy	2012.0	United States	large
+5	EOG	134.14	58.08	4.04	3.13	5.49	3.61	2.69	Energy	0.0	United States	large
+6	DVN	63.54	52.9	8.69	7.56	5.37	2.09	3.29	Energy	1985.0	United States	large
+7	PSX	107.38	58.26	3.0	3.18	5.16	3.69	3.44	Energy	0.0	United States	large
+8	MPC	126.79	57.06	3.47	3.76	5.01	4.98	3.93	Energy	0.0	United States	large
+9	SLB	56.36	55.81	9.41	8.01	4.68	2.25	3.99	Energy	0.0	France	large
+10	COP	115.06	48.56	10.77	8.43	4.67	4.01	3.49	Energy	0.0	United States	large
+11	PXD	231.39	52.47	2.49	2.08	4.55	6.67	2.88	Energy	0.0	United States	large
+12	HES	146.59	51.43	1.5	1.48	4.23	4.93	3.36	Energy	0.0	United States	large
+13	XOM	119.17	63.27	24.91	18.14	4.22	3.83	3.21	Energy	0.0	United States	mega
+14	EQT	31.67	44.43	8.8	8.38	3.84	1.36	4.29	Energy	0.0	United States	large
+15	OXY	65.63	54.38	13.51	10.54	3.84	2.24	3.41	Energy	0.0	United States	large
+16	HAL	39.02	48.11	8.12	8.47	3.61	1.47	3.77	Energy	0.0	United States	large
+17	CTRA	25.07	52.34	9.16	7.87	2.91	0.69	2.75	Energy	0.0	United States	large
+18	BKR	32.92	63.73	5.8	6.46	2.3	0.96	2.92	Energy	0.0	United States	large
+19	CVX	171.97	46.36	11.6	9.88	2.1	4.48	2.61	Energy	0.0	United States	mega

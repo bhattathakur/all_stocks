@@ -1,0 +1,7 @@
+	TICKER	CP	RSI	VOL	AVGVOL	%CHG	ATR	%ATR	SECTOR	IPO	COUNTRY	CATEGORY
+1	HPE	16.44	55.79	14.02	18.47	1.23	0.31	1.89	Telecommunications	2015.0	United States	large
+2	CSCO	47.26	45.39	17.4	17.11	1.13	0.94	1.99	Telecommunications	1990.0	United States	large
+3	TMUS	143.7	45.74	3.56	4.6	0.6	2.8	1.95	Telecommunications	0.0	United States	large
+4	VZ	40.01	45.55	15.4	16.83	0.5	1.35	3.37	Telecommunications	0.0	United States	large
+5	LUMN	3.96	28.28	34.66	62.34	-1.0	0.36	9.09	Telecommunications	0.0	United States	medium
+6	WBD	14.22	55.41	11.84	14.72	-1.04	0.67	4.71	Telecommunications	0.0	United States	large

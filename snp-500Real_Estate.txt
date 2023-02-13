@@ -1,0 +1,31 @@
+	TICKER	CP	RSI	VOL	AVGVOL	%CHG	ATR	%ATR	SECTOR	IPO	COUNTRY	CATEGORY
+1	REG	65.67	51.9	1.38	0.97	3.34	1.54	2.35	Real_Estate	1993.0	United States	large
+2	WELL	75.28	60.89	2.02	2.09	1.74	1.59	2.11	Real_Estate	0.0	United States	large
+3	PEAK	26.66	48.26	3.22	4.52	1.33	0.58	2.18	Real_Estate	0.0	United States	large
+4	FRT	109.97	52.78	0.51	0.72	1.23	2.5	2.27	Real_Estate	0.0	United States	medium
+5	KIM	21.67	47.25	4.38	4.69	1.21	0.59	2.72	Real_Estate	0.0	United States	large
+6	BXP	72.54	51.97	0.97	1.11	1.06	2.24	3.09	Real_Estate	1997.0	United States	large
+7	LEN	101.9	56.84	1.35	1.75	1.02	2.75	2.7	Real_Estate	0.0	United States	large
+8	O	66.85	52.5	2.12	2.63	0.94	1.11	1.66	Real_Estate	0.0	United States	large
+9	VTR	50.99	56.14	2.49	2.31	0.87	1.19	2.33	Real_Estate	0.0	United States	large
+10	EQR	64.82	58.37	2.64	2.34	0.75	1.6	2.47	Real_Estate	0.0	United States	large
+11	AMT	216.72	45.36	1.93	1.74	0.71	5.71	2.63	Real_Estate	0.0	United States	large
+12	CPT	122.82	58.0	0.58	0.83	0.6	2.82	2.3	Real_Estate	1993.0	United States	large
+13	VICI	34.48	59.25	3.49	4.19	0.52	0.87	2.52	Real_Estate	2018.0	N-A	large
+14	PSA	299.91	53.82	1.83	1.62	0.46	6.69	2.23	Real_Estate	0.0	United States	large
+15	IRM	53.25	49.46	0.94	1.13	0.4	1.24	2.33	Real_Estate	0.0	United States	large
+16	UDR	44.09	63.1	3.41	3.28	0.39	1.12	2.54	Real_Estate	0.0	United States	large
+17	ARE	165.68	62.25	0.61	0.68	0.36	3.78	2.28	Real_Estate	0.0	United States	large
+18	CCI	141.5	43.95	1.63	1.63	0.35	3.96	2.8	Real_Estate	0.0	United States	large
+19	DLR	111.46	53.97	1.55	1.4	0.14	3.15	2.83	Real_Estate	2004.0	United States	large
+20	INVH	32.67	56.06	2.31	2.47	0.12	0.76	2.33	Real_Estate	2017.0	United States	large
+21	PLD	128.09	56.39	2.3	2.59	0.04	3.62	2.83	Real_Estate	0.0	United States	large
+22	SBAC	289.49	46.29	0.85	0.64	0.01	7.95	2.75	Real_Estate	1999.0	United States	large
+23	SPG	124.35	49.74	1.17	1.67	-0.05	2.69	2.16	Real_Estate	0.0	United States	large
+24	AVB	180.28	60.58	0.79	0.83	-0.05	4.07	2.26	Real_Estate	0.0	United States	large
+25	MAA	171.37	61.17	0.62	0.73	-0.1	4.13	2.41	Real_Estate	1994.0	United States	large
+26	EQIX	729.75	57.05	0.28	0.3	-0.4	15.96	2.19	Real_Estate	2000.0	United States	large
+27	WY	33.64	53.43	3.95	4.57	-0.5	0.83	2.47	Real_Estate	0.0	United States	large
+28	ESS	233.77	60.63	0.75	0.76	-1.13	5.5	2.35	Real_Estate	1994.0	United States	large
+29	HST	18.18	52.24	5.48	5.83	-1.46	0.45	2.48	Real_Estate	0.0	United States	large
+30	EXR	161.75	56.48	0.88	1.76	-2.37	4.07	2.52	Real_Estate	2004.0	United States	large

@@ -1,0 +1,51 @@
+	TICKER	CP	RSI	VOL	AVGVOL	%CHG	ATR	%ATR	SECTOR	IPO	COUNTRY	CATEGORY
+1	CF	90.49	60.59	4.16	2.83	4.25	2.65	2.93	Industrials	2005.0	United States	large
+2	IFF	94.82	30.27	5.49	4.43	3.79	4.16	4.39	Industrials	0.0	United States	large
+3	CTVA	64.47	60.25	4.93	4.34	2.99	1.56	2.42	Industrials	2019.0	N-A	large
+4	RTX	100.61	58.19	5.29	4.36	2.82	2.49	2.47	Industrials	0.0	United States	large
+5	MOS	51.3	65.68	3.44	3.8	2.6	1.79	3.49	Industrials	0.0	United States	large
+6	LHX	215.66	62.58	0.98	1.15	2.52	4.73	2.19	Industrials	0.0	United States	large
+7	DE	417.79	49.69	1.36	1.27	2.4	9.8	2.35	Industrials	0.0	United States	large
+8	LMT	480.83	65.67	1.44	1.17	2.28	8.32	1.73	Industrials	0.0	United States	large
+9	ETN	170.91	65.4	2.26	2.67	2.18	4.22	2.47	Industrials	0.0	Ireland	large
+10	GD	233.22	46.72	0.85	1.07	1.99	4.8	2.06	Industrials	0.0	United States	large
+11	MAS	55.06	62.16	4.49	3.02	1.96	1.82	3.31	Industrials	0.0	United States	large
+12	FMC	131.2	56.96	1.15	1.16	1.63	3.2	2.44	Industrials	0.0	United States	large
+13	NSC	242.61	44.6	1.19	1.07	1.52	6.85	2.82	Industrials	0.0	United States	large
+14	CSX	31.57	49.82	10.76	9.86	1.41	0.9	2.85	Industrials	0.0	United States	large
+15	UNP	205.5	47.18	2.6	2.23	1.33	6.31	3.07	Industrials	0.0	United States	large
+16	DOW	59.82	63.41	3.83	4.11	1.25	1.38	2.31	Industrials	2019.0	N-A	large
+17	BIO	471.18	57.58	0.17	0.12	1.16	13.63	2.89	Industrials	1980.0	United States	large
+18	NWL	14.77	45.11	11.01	5.31	1.16	0.6	4.06	Industrials	0.0	United States	medium
+19	IEX	225.92	44.95	0.34	0.4	1.0	5.44	2.41	Industrials	1989.0	United States	large
+20	AMCR	11.33	36.02	5.94	8.69	0.98	0.27	2.38	Industrials	2019.0	N-A	large
+21	TT	183.14	57.77	1.14	1.58	0.87	5.69	3.11	Industrials	0.0	Ireland	large
+22	MMM	113.88	41.17	2.27	2.61	0.84	3.43	3.01	Industrials	0.0	United States	large
+23	LYB	99.47	69.49	1.38	1.96	0.84	2.28	2.29	Industrials	0.0	Netherlands	large
+24	EMR	85.85	34.52	4.81	4.95	0.82	2.38	2.77	Industrials	0.0	United States	large
+25	STLD	122.32	62.0	1.21	1.42	0.8	4.62	3.78	Industrials	1996.0	United States	large
+26	IP	38.63	51.25	3.13	3.06	0.68	1.11	2.87	Industrials	0.0	United States	large
+27	WAB	103.31	50.79	0.55	0.68	0.65	2.12	2.05	Industrials	0.0	United States	large
+28	HON	200.47	40.13	2.89	3.05	0.63	4.57	2.28	Industrials	0.0	United States	large
+29	CAT	247.67	48.28	2.82	2.92	0.56	6.27	2.53	Industrials	0.0	United States	large
+30	TDY	438.36	64.98	0.14	0.15	0.54	8.61	1.96	Industrials	0.0	United States	large
+31	AOS	66.11	58.22	0.76	0.98	0.46	2.04	3.09	Industrials	0.0	United States	large
+32	IR	56.69	55.73	1.26	1.88	0.44	1.38	2.43	Industrials	2017.0	United States	large
+33	TMO	571.41	49.01	0.76	0.98	0.44	14.29	2.5	Industrials	0.0	United States	mega
+34	BA	212.89	58.49	4.86	5.06	0.42	5.46	2.56	Industrials	0.0	United States	large
+35	HII	221.33	48.27	0.49	0.6	0.4	5.28	2.39	Industrials	0.0	United States	medium
+36	ALB	268.29	53.41	1.39	1.32	0.34	10.04	3.74	Industrials	0.0	United States	large
+37	APD	287.82	36.6	0.86	1.15	0.32	7.32	2.54	Industrials	0.0	United States	large
+38	NUE	164.11	55.66	1.48	1.72	0.32	6.21	3.78	Industrials	0.0	United States	large
+39	CMI	246.92	49.62	0.84	0.85	0.31	5.8	2.35	Industrials	0.0	United States	large
+40	ITW	235.52	53.56	0.84	1.11	0.22	5.6	2.38	Industrials	0.0	United States	large
+41	FOXA	35.81	71.33	3.72	4.05	0.2	0.88	2.46	Industrials	0.0	United States	large
+42	HWM	40.52	55.37	2.98	2.25	0.17	0.83	2.05	Industrials	0.0	United States	large
+43	A	152.55	47.71	0.93	0.95	0.11	3.37	2.21	Industrials	1999.0	United States	large
+44	XYL	106.17	48.07	1.16	1.92	0.1	3.32	3.13	Industrials	2011.0	United States	large
+45	DOV	153.25	60.7	0.55	0.7	0.07	3.66	2.39	Industrials	0.0	United States	large
+46	PCAR	72.99	58.39	2.29	3.24	-0.03	1.89	2.59	Industrials	0.0	United States	large
+47	FOX	33.2	69.75	0.98	1.37	-0.03	0.77	2.32	Industrials	0.0	United States	large
+48	EMN	86.91	45.81	0.67	0.94	-0.08	2.54	2.92	Industrials	0.0	United States	large
+49	J	121.7	46.29	0.54	0.79	-0.12	2.84	2.33	Industrials	2022.0	N-A	large
+50	FTV	68.13	54.87	1.08	1.93	-0.13	1.73	2.54	Industrials	2016.0	N-A	large

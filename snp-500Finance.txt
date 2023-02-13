@@ -1,0 +1,51 @@
+	TICKER	CP	RSI	VOL	AVGVOL	%CHG	ATR	%ATR	SECTOR	IPO	COUNTRY	CATEGORY
+1	WTW	244.7	43.06	0.64	0.79	2.4	5.35	2.19	Finance	2001.0	United Kingdom	large
+2	ALL	135.41	56.31	1.39	1.69	1.39	3.67	2.71	Finance	0.0	United States	large
+3	IVZ	18.74	48.4	5.37	4.4	1.35	0.75	4.0	Finance	0.0	United States	medium
+4	HIG	77.21	56.38	1.27	1.68	1.17	1.54	1.99	Finance	0.0	United States	large
+5	GL	121.53	54.82	0.39	0.45	1.15	2.29	1.88	Finance	0.0	United States	large
+6	PGR	138.73	62.32	1.72	1.8	1.13	2.82	2.03	Finance	0.0	United States	large
+7	SCHW	80.46	52.59	4.81	6.4	1.11	2.55	3.17	Finance	0.0	United States	large
+8	ICE	108.71	55.82	1.59	2.33	1.09	2.19	2.01	Finance	2005.0	United States	large
+9	NDAQ	59.62	44.32	2.04	1.89	1.09	1.49	2.5	Finance	0.0	United States	large
+10	BLK	723.51	43.04	0.63	0.66	1.05	17.63	2.44	Finance	1999.0	United States	large
+11	AIZ	133.41	57.74	0.5	0.53	0.96	2.95	2.21	Finance	2004.0	United States	medium
+12	TFC	48.38	53.47	5.36	4.97	0.94	1.28	2.65	Finance	0.0	United States	large
+13	AJG	195.06	51.94	0.54	0.64	0.89	3.83	1.96	Finance	0.0	United States	large
+14	GS	371.28	59.74	1.93	1.98	0.89	9.62	2.59	Finance	1999.0	United States	large
+15	MET	71.4	49.66	3.02	4.01	0.86	1.64	2.3	Finance	2000.0	United States	large
+16	PFG	90.38	50.95	1.17	1.36	0.81	2.22	2.46	Finance	2001.0	United States	large
+17	MTB	159.02	59.91	0.84	1.21	0.78	3.76	2.36	Finance	0.0	United States	large
+18	TRV	186.75	49.18	1.07	1.32	0.75	4.65	2.49	Finance	0.0	United States	large
+19	AIG	61.32	46.82	3.1	4.03	0.74	1.29	2.1	Finance	0.0	United States	large
+20	L	62.17	61.5	0.89	0.96	0.68	1.1	1.77	Finance	0.0	United States	large
+21	CME	184.1	63.33	1.71	2.24	0.65	3.67	1.99	Finance	2002.0	United States	large
+22	CB	214.69	43.3	1.75	1.95	0.6	5.85	2.72	Finance	0.0	Switzerland	large
+23	RF	23.67	60.66	5.95	8.09	0.59	0.54	2.28	Finance	0.0	United States	large
+24	TROW	117.62	48.96	1.76	1.44	0.5	4.47	3.8	Finance	1986.0	United States	large
+25	SYF	36.42	54.8	3.69	3.92	0.5	1.48	4.06	Finance	2014.0	United States	large
+26	CBOE	126.2	56.83	0.29	0.56	0.45	2.71	2.15	Finance	2010.0	N-A	large
+27	JPM	141.04	56.5	6.58	7.77	0.44	2.76	1.96	Finance	0.0	United States	mega
+28	AMP	349.73	59.96	0.34	0.41	0.42	7.58	2.17	Finance	0.0	United States	large
+29	DFS	115.0	57.95	2.01	2.09	0.41	3.47	3.02	Finance	0.0	United States	large
+30	MS	98.44	63.31	5.22	4.94	0.4	2.65	2.69	Finance	0.0	United States	large
+31	MMC	172.05	50.15	1.43	1.3	0.37	3.33	1.94	Finance	0.0	United States	large
+32	AFL	69.88	43.07	1.67	2.04	0.36	1.41	2.02	Finance	0.0	United States	large
+33	RJF	111.32	47.47	0.93	0.95	0.3	3.16	2.84	Finance	0.0	United States	large
+34	BEN	30.92	54.0	5.56	3.55	0.29	1.0	3.23	Finance	0.0	United States	large
+35	PNC	159.34	46.76	1.86	2.18	0.29	4.01	2.52	Finance	0.0	United States	large
+36	RE	379.48	70.06	0.31	0.4	0.27	10.75	2.83	Finance	0.0	Bermuda	large
+37	C	50.11	50.49	16.52	15.41	0.26	1.17	2.33	Finance	0.0	United States	large
+38	FDS	428.31	53.67	0.15	0.14	0.25	8.87	2.07	Finance	2000.0	United States	large
+39	NTRS	97.82	56.78	0.78	0.87	0.23	2.61	2.67	Finance	0.0	United States	large
+40	CSGP	75.96	43.73	1.54	1.73	0.22	1.95	2.57	Finance	1998.0	United States	large
+41	ACGL	64.22	57.13	2.0	1.77	0.19	1.23	1.92	Finance	0.0	Bermuda	large
+42	AON	317.82	52.93	0.67	0.73	0.14	6.31	1.99	Finance	0.0	United States	large
+43	SPGI	363.86	50.11	1.32	1.17	0.06	8.72	2.4	Finance	0.0	United States	large
+44	PRU	103.03	53.91	1.31	2.14	0.06	2.65	2.57	Finance	2001.0	United States	large
+45	STT	92.58	69.29	2.55	2.79	0.05	2.72	2.94	Finance	0.0	United States	large
+46	AXP	179.25	73.21	2.59	3.2	-0.07	4.9	2.73	Finance	0.0	United States	large
+47	MCO	306.77	47.24	0.53	0.73	-0.08	7.8	2.54	Finance	0.0	United States	large
+48	BRO	58.25	46.6	0.76	0.98	-0.1	1.32	2.27	Finance	0.0	United States	large
+49	CFG	43.12	55.05	2.71	2.85	-0.12	0.98	2.27	Finance	2014.0	United States	large
+50	WFC	47.51	66.74	18.93	18.41	-0.13	1.22	2.57	Finance	0.0	United States	large

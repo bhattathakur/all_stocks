@@ -1,0 +1,21 @@
+	TICKER	CP	RSI	VOL	AVGVOL	%CHG	ATR	%ATR	SECTOR	IPO	COUNTRY	CATEGORY
+1	WBA	36.55	47.61	6.61	6.42	2.07	0.85	2.33	Consumer_Staples	0.0	United States	large
+2	PEP	176.2	57.46	6.17	6.63	1.98	2.87	1.63	Consumer_Staples	0.0	United States	mega
+3	SJM	148.93	43.06	0.8	0.81	1.95	2.82	1.89	Consumer_Staples	0.0	United States	large
+4	KHC	39.63	45.82	5.56	5.83	1.9	0.84	2.12	Consumer_Staples	0.0	United States	large
+5	MDLZ	65.5	49.38	5.51	5.48	1.88	1.14	1.74	Consumer_Staples	0.0	United States	large
+6	CPB	51.43	43.59	1.77	2.32	1.82	1.08	2.1	Consumer_Staples	0.0	United States	large
+7	HSY	239.1	64.47	0.92	1.35	1.68	4.67	1.95	Consumer_Staples	0.0	United States	large
+8	KR	44.8	49.5	3.73	4.02	1.61	0.86	1.92	Consumer_Staples	0.0	United States	large
+9	MKC	74.5	37.85	1.17	1.26	1.47	1.78	2.39	Consumer_Staples	0.0	United States	large
+10	KDP	35.28	48.69	9.34	6.35	1.18	0.55	1.56	Consumer_Staples	0.0	United States	large
+11	LW	99.27	59.9	1.09	1.07	1.17	1.8	1.81	Consumer_Staples	2016.0	N-A	large
+12	GIS	76.09	37.91	2.47	3.2	1.16	1.49	1.96	Consumer_Staples	0.0	United States	large
+13	CAG	36.37	39.61	3.21	3.64	1.14	0.72	1.98	Consumer_Staples	0.0	United States	large
+14	HRL	44.95	45.46	1.05	1.43	0.94	0.66	1.47	Consumer_Staples	0.0	United States	large
+15	K	67.69	42.76	2.43	2.7	0.83	1.23	1.82	Consumer_Staples	0.0	United States	large
+16	STZ	228.3	49.06	0.75	1.3	0.63	4.28	1.87	Consumer_Staples	0.0	United States	large
+17	TAP	51.44	47.83	0.9	1.58	0.43	1.2	2.33	Consumer_Staples	0.0	Canada	large
+18	KO	59.62	37.28	14.42	12.84	0.0	1.0	1.68	Consumer_Staples	0.0	United States	mega
+19	MNST	102.8	53.13	1.17	1.58	-0.05	1.79	1.74	Consumer_Staples	0.0	United States	large
+20	TSN	60.39	36.13	4.67	6.81	-0.41	1.9	3.15	Consumer_Staples	0.0	United States	large

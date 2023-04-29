@@ -1,2 +1,2 @@
 	TICKER	CP	RSI	VOL	AVGVOL	%CHG	ATR	%ATR	SECTOR	IPO	COUNTRY	CATEGORY
-1	BBWI	35.68	40.05	3.5	3.45	-2.38	1.53	4.29	Miscellaneous	0.0	United States	medium
+1	BBWI	35.53	39.4	2.81	3.13	-0.42	1.49	4.19	Miscellaneous	0.0	United States	medium

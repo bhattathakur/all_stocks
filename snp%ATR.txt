@@ -1,31 +1,31 @@
 	TICKER	CP	RSI	VOL	AVGVOL	%CHG	ATR	%ATR	SECTOR	IPO	COUNTRY	CATEGORY
-1	ENPH	164.2	29.4	7.87	10.0	0.01	12.36	7.53	Technology	2012.0	United States	large
-2	LCID	7.94	51.96	15.77	22.34	-2.82	0.53	6.68	Consumer_Discretionary	0.0	United States	large
-3	TEAM	147.66	41.42	1.98	1.69	-3.97	7.94	5.38	Technology	2015.0	Australia	large
-4	RIVN	12.82	42.38	18.17	19.08	1.18	0.69	5.38	Consumer_Discretionary	2021.0	United States	large
-5	DDOG	67.38	48.16	6.43	6.59	-4.03	3.37	5.0	Technology	2019.0	United States	large
-6	TSLA	164.31	40.11	122.35	132.95	2.57	7.95	4.84	Consumer_Discretionary	2010.0	United States	mega
-7	ZS	90.1	27.69	4.3	3.02	-3.55	4.31	4.78	Technology	2018.0	United States	large
-8	WBD	13.61	45.69	16.91	17.21	3.97	0.63	4.63	Telecommunications	0.0	United States	large
-9	MRNA	132.89	34.1	3.02	3.3	2.17	5.64	4.24	Health_Care	2018.0	United States	large
-10	CRWD	120.05	37.92	5.19	3.83	-4.76	4.84	4.03	Technology	2019.0	United States	large
-11	ZM	61.43	32.68	4.25	5.91	0.23	2.44	3.97	Technology	2019.0	United States	large
-12	SIRI	3.8	44.98	18.67	18.1	2.7	0.15	3.95	Consumer_Discretionary	0.0	United States	large
-13	ALGN	325.3	45.62	1.1	1.31	2.38	12.29	3.78	Health_Care	2001.0	United States	large
-14	ODFL	320.39	42.05	1.11	1.24	2.29	11.78	3.68	Industrials	1991.0	United States	large
-15	JD	35.72	38.44	8.91	10.78	2.79	1.3	3.64	Consumer_Discretionary	2014.0	China	large
-16	MRVL	39.48	47.52	9.64	11.06	2.2	1.4	3.55	Technology	2000.0	United States	large
-17	PDD	68.15	40.51	6.1	7.64	3.07	2.4	3.52	Consumer_Discretionary	2018.0	China	large
-18	AMD	89.37	48.6	50.65	48.94	2.21	3.04	3.4	Technology	0.0	United States	large
-19	GFS	58.8	30.69	1.63	1.38	1.36	2.0	3.4	Technology	2021.0	United States	large
-20	ABNB	119.67	54.69	4.97	3.87	3.84	3.98	3.33	Consumer_Discretionary	2020.0	United States	large
-21	MU	64.36	60.57	18.09	17.28	3.97	2.12	3.29	Technology	0.0	United States	large
-22	AMZN	105.45	55.38	130.56	97.79	-3.98	3.44	3.26	Consumer_Discretionary	1997.0	United States	mega
-23	LRCX	524.08	57.19	1.15	1.36	1.0	17.08	3.26	Technology	1984.0	United States	large
-24	CHTR	368.7	62.07	2.87	1.46	7.57	11.78	3.2	Consumer_Discretionary	0.0	United States	large
-25	ILMN	205.56	35.3	1.02	1.42	0.57	6.39	3.11	Health_Care	2000.0	United States	large
-26	MCHP	72.99	34.34	4.46	5.05	1.66	2.27	3.11	Technology	1993.0	United States	large
-27	KLAC	386.54	55.24	1.33	1.33	0.49	11.91	3.08	Technology	1980.0	United States	large
-28	INTC	31.06	54.33	80.23	51.73	4.02	0.95	3.06	Technology	0.0	United States	large
-29	NXPI	163.74	37.98	2.97	2.54	1.58	4.97	3.04	Technology	2010.0	Netherlands	large
-30	MELI	1277.49	54.07	0.45	0.34	2.62	37.57	2.94	Consumer_Discretionary	2007.0	Argentina	large
+1	ENPH	159.65	31.69	3.4	4.49	2.72	10.87	6.81	Technology	2012.0	United States	large
+2	LCID	7.73	50.72	16.46	13.34	4.74	0.51	6.6	Consumer_Discretionary	0.0	United States	large
+3	TEAM	135.73	35.64	7.39	3.06	-9.54	7.94	5.85	Technology	2015.0	Australia	large
+4	WBD	12.89	42.52	43.78	24.13	4.54	0.69	5.35	Telecommunications	0.0	United States	large
+5	DDOG	76.57	62.66	8.55	8.05	1.55	3.82	4.99	Technology	2019.0	United States	large
+6	RIVN	13.41	50.08	16.75	14.16	3.55	0.62	4.62	Consumer_Discretionary	2021.0	United States	large
+7	AMD	89.84	51.17	78.41	88.11	3.73	3.91	4.35	Technology	0.0	United States	large
+8	MRNA	137.04	43.69	3.38	3.64	2.02	5.7	4.16	Health_Care	2018.0	United States	large
+9	TSLA	170.06	47.81	107.44	111.91	5.5	7.0	4.12	Consumer_Discretionary	2010.0	United States	mega
+10	ZS	89.46	31.52	3.33	3.26	1.96	3.49	3.9	Technology	2018.0	United States	large
+11	PDD	63.06	33.17	6.43	6.08	-1.68	2.42	3.84	Consumer_Discretionary	2018.0	China	large
+12	SIRI	3.73	44.72	13.39	13.56	3.9	0.14	3.75	Consumer_Discretionary	0.0	United States	large
+13	MELI	1243.59	48.02	0.48	0.59	2.49	45.37	3.65	Consumer_Discretionary	2007.0	Argentina	large
+14	ALGN	313.64	43.46	0.6	0.78	3.13	11.34	3.62	Health_Care	2001.0	United States	large
+15	ZM	63.4	42.51	3.19	3.29	1.9	2.26	3.56	Technology	2019.0	United States	large
+16	CRWD	122.45	44.87	2.99	2.77	3.88	4.34	3.54	Technology	2019.0	United States	large
+17	ODFL	316.97	42.56	0.6	0.71	1.51	10.77	3.4	Industrials	1991.0	United States	large
+18	JD	35.88	42.65	8.96	8.31	0.28	1.2	3.34	Consumer_Discretionary	2014.0	China	large
+19	FANG	132.8	43.73	2.27	3.31	5.41	4.39	3.31	Energy	2012.0	United States	large
+20	MRVL	40.97	54.31	14.04	12.52	4.14	1.33	3.25	Technology	2000.0	United States	large
+21	MCHP	75.18	42.29	9.47	6.39	-1.12	2.42	3.22	Technology	1993.0	United States	large
+22	CHTR	350.85	51.31	0.85	1.02	0.59	11.18	3.19	Telecommunications	0.0	United States	large
+23	BKR	28.22	45.73	7.33	7.77	3.67	0.9	3.19	Energy	0.0	United States	large
+24	AMZN	105.66	55.6	56.91	63.1	1.6	3.33	3.15	Consumer_Discretionary	1997.0	United States	mega
+25	ILMN	199.66	35.29	0.8	1.01	1.71	6.27	3.14	Health_Care	2000.0	United States	large
+26	INTC	30.99	53.32	35.01	39.41	-0.8	0.97	3.13	Technology	0.0	United States	large
+27	NXPI	166.82	45.38	2.41	3.37	1.85	5.14	3.08	Technology	2010.0	Netherlands	large
+28	INTU	425.95	46.2	1.8	1.4	0.83	12.7	2.98	Technology	1993.0	United States	large
+29	NVDA	286.8	61.54	36.1	40.79	4.06	8.51	2.97	Technology	1999.0	United States	mega
+30	NFLX	322.76	46.89	3.99	4.52	0.62	9.59	2.97	Consumer_Discretionary	2002.0	United States	large

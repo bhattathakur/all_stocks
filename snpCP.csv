@@ -1,31 +1,31 @@
 TICKER,CP,RSI,VOL,AVGVOL,%CHG,ATR,%ATR,SECTOR,IPO,COUNTRY,CATEGORY
-SIRI,3.73,44.72,13.39,13.56,3.9,0.14,3.75,Consumer_Discretionary,0.0,United States,large
-LCID,7.73,50.72,16.46,13.34,4.74,0.51,6.6,Consumer_Discretionary,0.0,United States,large
-WBD,12.89,42.52,43.78,24.13,4.54,0.69,5.35,Telecommunications,0.0,United States,large
-RIVN,13.41,50.08,16.75,14.16,3.55,0.62,4.62,Consumer_Discretionary,2021.0,United States,large
-BKR,28.22,45.73,7.33,7.77,3.67,0.9,3.19,Energy,0.0,United States,large
-INTC,30.99,53.32,35.01,39.41,-0.8,0.97,3.13,Technology,0.0,United States,large
-CSX,31.86,63.14,8.86,10.18,1.76,0.64,2.01,Industrials,0.0,United States,large
-WBA,32.17,33.91,6.67,8.4,1.97,0.81,2.52,Consumer_Staples,0.0,United States,large
-KDP,33.23,38.34,11.87,11.32,2.28,0.64,1.93,Consumer_Staples,0.0,United States,large
-JD,35.88,42.65,8.96,8.31,0.28,1.2,3.34,Consumer_Discretionary,2014.0,China,large
-CMCSA,40.43,61.71,18.94,18.38,0.52,0.9,2.23,Consumer_Discretionary,0.0,United States,large
-MRVL,40.97,54.31,14.04,12.52,4.14,1.33,3.25,Technology,2000.0,United States,large
-KHC,41.32,72.41,7.68,11.36,1.18,0.62,1.5,Consumer_Staples,0.0,United States,large
-EXC,42.85,53.42,3.85,6.14,0.68,0.75,1.75,Utilities,0.0,United States,large
-EBAY,45.63,58.16,5.21,4.29,2.82,1.01,2.21,Consumer_Discretionary,1998.0,United States,large
-CSCO,46.25,35.86,14.32,17.23,1.2,0.83,1.79,Telecommunications,1990.0,United States,large
-FAST,54.66,58.13,2.16,2.93,1.18,1.09,1.99,Basic_Materials,1987.0,United States,large
-GFS,59.41,37.23,1.54,1.7,2.04,1.61,2.71,Technology,2021.0,United States,large
-MNST,59.71,81.58,8.25,6.12,3.27,1.0,1.67,Consumer_Staples,0.0,United States,large
-MU,61.23,51.15,12.31,12.31,1.19,1.72,2.81,Technology,0.0,United States,large
-PDD,63.06,33.17,6.43,6.08,-1.68,2.42,3.84,Consumer_Discretionary,2018.0,China,large
-CTSH,63.29,65.07,3.85,3.98,0.68,1.49,2.35,Technology,1998.0,United States,large
-ZM,63.4,42.51,3.19,3.29,1.9,2.26,3.56,Technology,2019.0,United States,large
-FTNT,64.59,52.88,9.35,6.21,5.57,1.71,2.65,Technology,2009.0,United States,large
-XEL,69.57,51.7,2.15,2.49,0.67,1.17,1.68,Utilities,0.0,United States,large
-PCAR,72.76,50.85,2.4,2.76,2.45,1.74,2.39,Consumer_Discretionary,0.0,United States,large
-CSGP,74.6,60.71,1.62,1.62,0.35,1.64,2.2,Finance,1998.0,United States,large
-PYPL,74.97,52.49,11.94,10.73,4.4,2.09,2.79,Consumer_Discretionary,0.0,United States,large
-MCHP,75.18,42.29,9.47,6.39,-1.12,2.42,3.22,Technology,1993.0,United States,large
-AZN,75.27,65.14,3.41,3.26,1.2,1.07,1.42,Health_Care,0.0,United Kingdom,mega
+SIRI,3.81,57.13,13.14,15.74,-1.8,0.13,3.41,Consumer_Discretionary,0.0,United States,large
+LCID,6.21,35.55,35.68,42.32,-1.11,0.41,6.6,Consumer_Discretionary,0.0,United States,large
+WBD,13.84,63.4,25.05,29.78,-1.28,0.59,4.26,Telecommunications,0.0,United States,large
+RIVN,13.87,47.72,25.8,22.86,-1.28,0.78,5.62,Consumer_Discretionary,2021.0,United States,large
+BKR,30.01,60.0,5.25,6.5,-0.92,0.81,2.7,Industrials,0.0,United States,large
+KDP,31.31,37.12,6.25,8.8,-0.32,0.44,1.41,Consumer_Staples,0.0,United States,large
+INTC,31.34,55.35,40.06,40.98,-1.51,1.13,3.61,Technology,0.0,United States,large
+WBA,31.42,47.17,6.12,5.69,-1.35,0.76,2.42,Consumer_Staples,0.0,United States,large
+CSX,32.31,58.96,8.03,10.11,-0.77,0.64,1.98,Industrials,0.0,United States,large
+JD,36.58,52.81,8.39,10.53,-1.77,1.45,3.96,Consumer_Discretionary,2014.0,China,large
+KHC,36.88,29.92,7.74,7.37,-0.83,0.65,1.76,Consumer_Staples,0.0,United States,large
+EXC,40.08,44.88,5.26,6.47,-0.12,0.78,1.95,Utilities,0.0,United States,large
+CMCSA,40.23,54.33,11.88,15.89,-0.59,0.75,1.86,Telecommunications,0.0,United States,large
+EBAY,45.81,58.8,4.98,5.23,0.44,1.03,2.25,Consumer_Discretionary,1998.0,United States,large
+CSCO,49.66,58.02,11.79,14.2,-0.04,0.84,1.69,Telecommunications,1990.0,United States,mega
+FAST,54.77,52.88,3.42,4.12,0.55,1.06,1.94,Consumer_Discretionary,1987.0,United States,large
+MNST,57.25,46.14,3.65,3.73,-0.49,0.91,1.59,Consumer_Staples,0.0,United States,large
+GFS,59.43,53.01,1.13,1.25,0.05,1.98,3.33,Technology,2021.0,United States,large
+MRVL,60.01,67.71,14.39,16.55,0.49,3.38,5.63,Technology,2000.0,United States,large
+CTSH,62.05,49.63,3.32,3.37,-0.4,1.11,1.79,Technology,1998.0,United States,large
+XEL,63.45,35.15,3.34,4.08,-1.08,1.37,2.16,Utilities,0.0,United States,large
+PYPL,63.49,44.83,17.1,14.54,-1.17,1.57,2.47,Consumer_Discretionary,0.0,United States,large
+MU,65.43,48.46,14.53,15.98,0.17,2.63,4.02,Technology,0.0,United States,large
+ZM,67.14,51.32,4.06,4.9,0.6,2.92,4.35,Technology,2019.0,United States,large
+FTNT,68.01,51.4,4.09,5.67,-1.43,2.13,3.13,Technology,2009.0,United States,large
+MDLZ,72.97,41.18,4.13,5.66,-0.16,1.14,1.56,Consumer_Staples,0.0,United States,large
+AZN,74.06,54.37,3.53,4.35,-0.26,1.12,1.51,Health_Care,0.0,United Kingdom,large
+PDD,76.1,63.38,11.17,10.44,1.56,4.08,5.36,Consumer_Discretionary,2018.0,China,large
+PCAR,76.83,67.2,1.64,2.04,0.16,1.6,2.08,Consumer_Discretionary,0.0,United States,large
+GILD,78.12,48.56,6.16,6.64,-0.36,1.56,2.0,Health_Care,1992.0,United States,large

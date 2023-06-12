@@ -1,8 +1,10 @@
 	TICKER	CP	RSI	VOL	AVGVOL	%CHG	ATR	%ATR	SECTOR	IPO	COUNTRY	CATEGORY
-1	DISH	7.12	38.02	13.97	10.41	7.07	0.45	6.32	Telecommunications	1995.0	United States	medium
-2	WBD	12.89	42.52	43.78	24.13	4.54	0.69	5.35	Telecommunications	0.0	United States	large
-3	HPE	14.11	37.86	7.43	9.27	2.25	0.35	2.48	Telecommunications	2015.0	United States	large
-4	TMUS	143.56	45.35	5.09	5.62	1.63	2.25	1.57	Telecommunications	0.0	United States	large
-5	VZ	37.83	46.74	15.81	16.6	1.29	0.71	1.88	Telecommunications	0.0	United States	large
-6	CSCO	46.25	35.86	14.32	17.23	1.2	0.83	1.79	Telecommunications	1990.0	United States	large
-7	CHTR	350.85	51.31	0.85	1.02	0.59	11.18	3.19	Telecommunications	0.0	United States	large
+1	TMUS	131.36	39.26	5.53	9.15	0.8	3.53	2.69	Telecommunications	0.0	United States	large
+2	JNPR	30.19	51.12	2.77	3.58	0.43	0.63	2.09	Telecommunications	1999.0	United States	medium
+3	VZ	35.47	43.82	14.92	21.34	0.11	0.66	1.86	Telecommunications	0.0	United States	mega
+4	CSCO	49.66	58.02	11.79	14.2	-0.04	0.84	1.69	Telecommunications	1990.0	United States	mega
+5	CMCSA	40.23	54.33	11.88	15.89	-0.59	0.75	1.86	Telecommunications	0.0	United States	large
+6	T	15.95	43.22	24.05	35.81	-0.75	0.37	2.32	Telecommunications	0.0	United States	large
+7	WBD	13.84	63.4	25.05	29.78	-1.28	0.59	4.26	Telecommunications	0.0	United States	large
+8	CHTR	328.48	44.44	0.81	0.9	-2.29	8.96	2.73	Telecommunications	0.0	United States	large
+9	DISH	6.55	44.2	21.42	13.91	-11.84	0.56	8.55	Telecommunications	1995.0	United States	medium

@@ -1,31 +1,31 @@
 TICKER,CP,RSI,VOL,AVGVOL,%CHG,ATR,%ATR,SECTOR,IPO,COUNTRY,CATEGORY
-AAPL,173.57,67.62,113.32,72.12,4.69,3.1,1.79,Technology,1980.0,United States,mega
-TSLA,170.06,47.81,107.44,111.91,5.5,7.0,4.12,Consumer_Discretionary,2010.0,United States,mega
-AMD,89.84,51.17,78.41,88.11,3.73,3.91,4.35,Technology,0.0,United States,large
-AMZN,105.66,55.6,56.91,63.1,1.6,3.33,3.15,Consumer_Discretionary,1997.0,United States,mega
-WBD,12.89,42.52,43.78,24.13,4.54,0.69,5.35,Telecommunications,0.0,United States,large
-NVDA,286.8,61.54,36.1,40.79,4.06,8.51,2.97,Technology,1999.0,United States,mega
-INTC,30.99,53.32,35.01,39.41,-0.8,0.97,3.13,Technology,0.0,United States,large
-MSFT,310.65,69.36,28.18,24.15,1.72,6.57,2.11,Technology,1986.0,United States,mega
-META,232.78,63.21,26.98,26.57,-0.32,6.54,2.81,Technology,2012.0,United States,mega
-GOOGL,105.57,53.22,26.63,25.9,0.84,2.5,2.37,Technology,2004.0,United States,mega
-GOOG,106.21,53.16,20.71,19.77,0.95,2.45,2.31,Technology,2004.0,United States,mega
-CMCSA,40.43,61.71,18.94,18.38,0.52,0.9,2.23,Consumer_Discretionary,0.0,United States,large
-RIVN,13.41,50.08,16.75,14.16,3.55,0.62,4.62,Consumer_Discretionary,2021.0,United States,large
-LCID,7.73,50.72,16.46,13.34,4.74,0.51,6.6,Consumer_Discretionary,0.0,United States,large
-CSCO,46.25,35.86,14.32,17.23,1.2,0.83,1.79,Telecommunications,1990.0,United States,large
-MRVL,40.97,54.31,14.04,12.52,4.14,1.33,3.25,Technology,2000.0,United States,large
-SIRI,3.73,44.72,13.39,13.56,3.9,0.14,3.75,Consumer_Discretionary,0.0,United States,large
-MU,61.23,51.15,12.31,12.31,1.19,1.72,2.81,Technology,0.0,United States,large
-PYPL,74.97,52.49,11.94,10.73,4.4,2.09,2.79,Consumer_Discretionary,0.0,United States,large
-KDP,33.23,38.34,11.87,11.32,2.28,0.64,1.93,Consumer_Staples,0.0,United States,large
-QCOM,108.78,31.83,10.74,11.53,2.06,3.2,2.94,Technology,1991.0,United States,large
-MCHP,75.18,42.29,9.47,6.39,-1.12,2.42,3.22,Technology,1993.0,United States,large
-FTNT,64.59,52.88,9.35,6.21,5.57,1.71,2.65,Technology,2009.0,United States,large
-JD,35.88,42.65,8.96,8.31,0.28,1.2,3.34,Consumer_Discretionary,2014.0,China,large
-CSX,31.86,63.14,8.86,10.18,1.76,0.64,2.01,Industrials,0.0,United States,large
-DDOG,76.57,62.66,8.55,8.05,1.55,3.82,4.99,Technology,2019.0,United States,large
-MNST,59.71,81.58,8.25,6.12,3.27,1.0,1.67,Consumer_Staples,0.0,United States,large
-SBUX,107.21,49.49,7.81,11.44,2.38,2.3,2.15,Consumer_Discretionary,1992.0,United States,large
-KHC,41.32,72.41,7.68,11.36,1.18,0.62,1.5,Consumer_Staples,0.0,United States,large
-TEAM,135.73,35.64,7.39,3.06,-9.54,7.94,5.85,Technology,2015.0,Australia,large
+TSLA,244.4,85.76,198.96,169.44,4.06,9.18,3.76,Consumer_Discretionary,2010.0,United States,mega
+AMD,124.92,66.43,75.0,69.97,3.2,5.62,4.5,Technology,0.0,United States,mega
+AMZN,123.43,62.52,51.14,60.52,-0.66,3.41,2.76,Consumer_Discretionary,1997.0,United States,mega
+AAPL,180.96,67.26,47.3,69.25,0.22,2.73,1.51,Technology,1980.0,United States,mega
+NVDA,387.7,67.51,42.49,42.79,0.68,17.61,4.54,Technology,1999.0,United States,mega
+INTC,31.34,55.35,40.06,40.98,-1.51,1.13,3.61,Technology,0.0,United States,large
+LCID,6.21,35.55,35.68,42.32,-1.11,0.41,6.6,Consumer_Discretionary,0.0,United States,large
+RIVN,13.87,47.72,25.8,22.86,-1.28,0.78,5.62,Consumer_Discretionary,2021.0,United States,large
+WBD,13.84,63.4,25.05,29.78,-1.28,0.59,4.26,Telecommunications,0.0,United States,large
+GOOGL,122.23,57.49,23.5,32.87,0.07,3.11,2.54,Technology,2004.0,United States,mega
+MSFT,326.79,58.45,22.47,25.63,0.47,5.92,1.81,Technology,1986.0,United States,mega
+GOOG,122.87,57.28,19.55,24.13,0.16,3.07,2.5,Technology,2004.0,United States,mega
+PYPL,63.49,44.83,17.1,14.54,-1.17,1.57,2.47,Consumer_Discretionary,0.0,United States,large
+META,264.95,68.11,16.44,20.73,0.14,6.83,2.58,Technology,2012.0,United States,mega
+MU,65.43,48.46,14.53,15.98,0.17,2.63,4.02,Technology,0.0,United States,large
+MRVL,60.01,67.71,14.39,16.55,0.49,3.38,5.63,Technology,2000.0,United States,large
+SIRI,3.81,57.13,13.14,15.74,-1.8,0.13,3.41,Consumer_Discretionary,0.0,United States,large
+QCOM,119.11,62.1,12.99,8.34,2.37,3.38,2.84,Technology,1991.0,United States,large
+NFLX,420.02,76.41,12.35,8.5,2.6,13.96,3.32,Consumer_Discretionary,2002.0,United States,large
+CMCSA,40.23,54.33,11.88,15.89,-0.59,0.75,1.86,Telecommunications,0.0,United States,large
+CSCO,49.66,58.02,11.79,14.2,-0.04,0.84,1.69,Telecommunications,1990.0,United States,mega
+PDD,76.1,63.38,11.17,10.44,1.56,4.08,5.36,Consumer_Discretionary,2018.0,China,large
+JD,36.58,52.81,8.39,10.53,-1.77,1.45,3.96,Consumer_Discretionary,2014.0,China,large
+CSX,32.31,58.96,8.03,10.11,-0.77,0.64,1.98,Industrials,0.0,United States,large
+ADBE,454.0,74.72,7.92,4.91,3.41,14.72,3.24,Technology,1986.0,United States,mega
+KHC,36.88,29.92,7.74,7.37,-0.83,0.65,1.76,Consumer_Staples,0.0,United States,large
+ABNB,117.86,57.13,7.42,5.97,2.04,4.33,3.67,Consumer_Discretionary,2020.0,United States,large
+KDP,31.31,37.12,6.25,8.8,-0.32,0.44,1.41,Consumer_Staples,0.0,United States,large
+GILD,78.12,48.56,6.16,6.64,-0.36,1.56,2.0,Health_Care,1992.0,United States,large
+WBA,31.42,47.17,6.12,5.69,-1.35,0.76,2.42,Consumer_Staples,0.0,United States,large

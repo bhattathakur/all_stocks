@@ -1,51 +1,51 @@
 	TICKER	CP	RSI	VOL	AVGVOL	%CHG	ATR	%ATR	SECTOR	IPO	COUNTRY	CATEGORY
-1	GLW	32.78	59.7	7.15	4.66	3.47	0.75	2.29	Industrials	0.0	United States	large
-2	A	115.79	30.52	1.81	2.38	0.96	3.05	2.63	Industrials	1999.0	United States	large
-3	CF	67.97	53.7	2.02	2.53	0.91	2.41	3.55	Industrials	2005.0	United States	large
-4	ROK	305.5	68.67	0.88	0.74	0.85	7.17	2.35	Industrials	0.0	United States	large
-5	XYL	109.71	67.8	1.74	1.88	0.61	2.18	1.99	Industrials	2011.0	United States	large
-6	TMO	518.18	43.36	1.04	1.49	0.57	10.46	2.02	Industrials	0.0	United States	large
-7	MLM	427.26	78.6	0.36	0.43	0.44	7.74	1.81	Industrials	1994.0	United States	large
-8	MOS	35.08	44.59	3.95	4.38	0.43	1.3	3.71	Industrials	0.0	United States	large
-9	BIO	361.03	31.98	0.2	0.21	0.43	9.76	2.7	Industrials	1980.0	United States	large
-10	ALB	220.5	62.85	1.49	1.57	0.4	7.69	3.49	Industrials	0.0	United States	large
-11	TER	105.02	63.21	1.6	1.34	0.33	3.11	2.96	Industrials	0.0	United States	large
-12	RTX	99.34	62.38	2.52	3.76	0.26	1.49	1.5	Industrials	0.0	United States	large
-13	CAT	235.03	67.04	2.48	3.66	0.25	5.9	2.51	Industrials	0.0	United States	large
-14	VMC	206.64	79.14	0.61	0.76	0.22	3.12	1.51	Industrials	0.0	United States	large
-15	ITW	237.51	61.1	0.91	1.03	0.21	4.62	1.95	Industrials	0.0	United States	large
-16	GWW	706.48	65.44	0.23	0.31	0.21	12.45	1.76	Industrials	0.0	United States	large
-17	TXT	65.29	53.47	0.99	1.06	0.12	1.24	1.9	Industrials	0.0	United States	large
-18	PH	356.13	64.2	0.57	1.0	0.08	8.65	2.43	Industrials	0.0	United States	large
-19	EMN	80.48	48.23	1.15	0.97	0.07	2.15	2.67	Industrials	0.0	United States	medium
-20	AXON	194.82	42.79	0.43	0.64	0.04	5.1	2.62	Industrials	2001.0	United States	large
-21	DHR	235.37	51.74	1.7	2.33	-0.02	4.45	1.89	Industrials	0.0	United States	large
-22	WAB	99.05	55.92	0.59	0.81	-0.03	1.99	2.01	Industrials	0.0	United States	large
-23	JCI	63.51	58.89	2.61	3.11	-0.06	1.36	2.14	Industrials	0.0	Switzerland	large
-24	AME	150.29	60.04	0.76	0.98	-0.08	2.22	1.48	Industrials	0.0	United States	large
-25	ROP	451.8	49.33	0.51	0.44	-0.09	6.6	1.46	Industrials	1992.0	United States	large
-26	CMI	226.63	58.89	0.91	1.02	-0.12	5.28	2.33	Industrials	0.0	United States	large
-27	HON	197.89	54.68	1.76	1.98	-0.13	3.38	1.71	Industrials	0.0	United States	large
-28	NDSN	232.15	66.23	0.16	0.22	-0.26	4.77	2.05	Industrials	0.0	United States	large
-29	NOC	454.26	58.37	0.63	0.72	-0.27	7.14	1.57	Industrials	0.0	United States	large
-30	WAT	249.28	29.66	0.44	0.46	-0.27	5.98	2.4	Industrials	1995.0	United States	large
-31	MTD	1292.06	33.14	0.16	0.1	-0.27	32.26	2.5	Industrials	1997.0	Switzerland	large
-32	GRMN	105.34	57.77	0.38	0.56	-0.28	1.57	1.49	Industrials	2000.0	Switzerland	large
-33	IEX	206.86	49.77	0.24	0.48	-0.28	3.87	1.87	Industrials	1989.0	United States	large
-34	PWR	182.83	64.2	0.34	0.57	-0.29	3.85	2.11	Industrials	0.0	United States	large
-35	RVTY	111.09	27.03	0.6	0.66	-0.32	2.57	2.31	Industrials	0.0	United States	large
-36	LMT	462.69	56.0	0.71	0.82	-0.32	6.52	1.41	Industrials	0.0	United States	large
-37	LHX	188.59	55.51	0.64	0.82	-0.35	3.24	1.72	Industrials	0.0	United States	large
-38	BA	217.31	64.34	5.29	7.41	-0.37	5.35	2.46	Industrials	0.0	United States	large
-39	FTV	68.15	58.37	1.15	1.43	-0.37	1.4	2.05	Industrials	2016.0	N-A	large
-40	TT	176.23	55.27	1.0	1.0	-0.37	3.63	2.06	Industrials	0.0	Ireland	large
-41	J	116.23	53.52	0.57	0.72	-0.38	2.19	1.88	Industrials	2022.0	N-A	large
-42	LIN	360.76	49.56	1.12	1.4	-0.4	5.54	1.54	Industrials	2023.0	N-A	large
-43	IR	62.46	63.9	1.19	1.59	-0.48	1.45	2.32	Industrials	2017.0	United States	large
-44	DE	378.87	56.08	1.25	1.58	-0.5	9.84	2.6	Industrials	0.0	United States	large
-45	KEYS	161.57	62.2	0.79	0.74	-0.5	3.3	2.04	Industrials	2014.0	United States	large
-46	DUK	91.52	45.72	2.65	2.56	-0.52	1.66	1.81	Industrials	0.0	United States	large
-47	HII	215.31	68.55	0.34	0.37	-0.55	4.01	1.86	Industrials	0.0	United States	medium
-48	GD	212.27	52.1	0.68	0.97	-0.59	3.18	1.5	Industrials	0.0	United States	large
-49	NSC	216.18	56.25	0.96	1.11	-0.66	4.4	2.04	Industrials	0.0	United States	large
-50	CARR	45.3	63.55	5.84	5.22	-0.66	1.11	2.45	Industrials	2020.0	N-A	large
+1	ZBRA	295.83	63.6	0.34	0.32	2.48	7.89	2.67	Industrials	1991.0	United States	large
+2	IFF	79.59	49.47	1.97	2.66	2.29	1.89	2.37	Industrials	0.0	United States	large
+3	DOV	147.65	59.92	1.18	0.68	2.07	2.94	1.99	Industrials	0.0	United States	large
+4	ALB	223.09	54.59	1.35	1.54	1.88	6.9	3.09	Industrials	0.0	United States	large
+5	A	120.25	49.83	2.49	2.11	1.86	2.39	1.99	Industrials	1999.0	United States	large
+6	UPS	179.25	60.37	4.89	3.28	1.82	2.99	1.67	Industrials	1999.0	United States	large
+7	TER	111.33	61.86	2.27	1.85	1.76	2.82	2.53	Industrials	0.0	United States	large
+8	WAT	266.54	53.44	0.88	0.5	1.75	6.05	2.27	Industrials	1995.0	United States	large
+9	FTV	74.77	74.82	1.58	1.6	1.67	1.18	1.58	Industrials	2016.0	N-A	large
+10	SEE	40.0	50.61	1.07	1.45	1.65	1.07	2.68	Industrials	0.0	United States	medium
+11	HWM	49.56	75.18	2.48	2.39	1.64	0.83	1.67	Industrials	0.0	United States	large
+12	APD	299.53	68.64	1.03	0.69	1.62	5.24	1.75	Industrials	0.0	United States	large
+13	ROK	329.45	71.6	0.62	0.66	1.61	7.26	2.2	Industrials	0.0	United States	large
+14	WAB	109.67	74.47	1.22	1.07	1.54	1.96	1.79	Industrials	0.0	United States	large
+15	IR	65.36	68.61	1.88	2.72	1.49	1.18	1.81	Industrials	2017.0	United States	large
+16	CE	115.8	59.19	0.95	1.04	1.47	3.42	2.95	Industrials	2005.0	United States	large
+17	PNR	64.6	72.72	1.4	1.03	1.44	1.28	1.98	Industrials	0.0	Switzerland	medium
+18	TMO	521.75	48.63	1.32	1.34	1.43	10.51	2.01	Industrials	0.0	United States	mega
+19	CMI	245.16	69.57	0.85	0.95	1.31	5.47	2.23	Industrials	0.0	United States	large
+20	LYB	91.83	56.65	1.52	1.47	1.29	2.16	2.35	Industrials	0.0	Netherlands	large
+21	KEYS	167.45	65.94	1.18	0.8	1.28	2.62	1.56	Industrials	2014.0	United States	large
+22	JCI	68.14	69.99	4.12	3.67	1.22	1.16	1.7	Industrials	0.0	Switzerland	large
+23	XYL	112.62	63.23	1.28	1.3	1.15	1.79	1.59	Industrials	2011.0	United States	large
+24	AME	161.88	74.7	1.04	0.83	1.09	2.26	1.4	Industrials	0.0	United States	large
+25	BIO	379.12	52.25	0.16	0.17	1.03	9.88	2.61	Industrials	1980.0	United States	large
+26	NOC	455.8	54.77	0.77	0.64	1.02	7.62	1.67	Industrials	0.0	United States	large
+27	EMN	83.72	58.6	0.76	0.72	0.98	2.07	2.47	Industrials	0.0	United States	medium
+28	ROP	480.8	74.14	0.52	0.48	0.98	6.03	1.25	Industrials	1992.0	United States	large
+29	GLW	35.04	64.34	4.38	4.02	0.95	0.69	1.97	Industrials	0.0	United States	large
+30	TDY	411.11	57.73	0.24	0.19	0.94	6.74	1.64	Industrials	0.0	United States	large
+31	DHR	240.0	55.38	3.3	2.81	0.94	5.61	2.34	Industrials	0.0	United States	large
+32	TDG	894.17	79.42	0.22	0.21	0.91	14.16	1.58	Industrials	2006.0	United States	large
+33	DE	405.19	59.34	1.85	1.63	0.89	9.36	2.31	Industrials	0.0	United States	large
+34	BALL	58.21	61.13	1.37	1.31	0.87	1.73	2.97	Industrials	0.0	United States	large
+35	PH	390.04	74.75	0.61	0.67	0.85	8.12	2.08	Industrials	0.0	United States	large
+36	MLM	461.69	85.52	0.38	0.33	0.84	7.26	1.57	Industrials	1994.0	United States	large
+37	PWR	196.45	72.2	0.72	0.72	0.82	3.24	1.65	Industrials	0.0	United States	large
+38	DD	71.44	62.84	2.8	3.03	0.82	1.33	1.86	Industrials	2017.0	N-A	large
+39	IEX	215.26	62.14	0.61	0.62	0.81	3.66	1.7	Industrials	1989.0	United States	large
+40	BKR	31.61	65.43	6.83	6.2	0.8	0.88	2.78	Industrials	0.0	United States	large
+41	GWW	788.59	77.27	0.27	0.24	0.8	15.08	1.91	Industrials	0.0	United States	large
+42	CAT	246.05	65.38	2.38	2.14	0.74	5.75	2.34	Industrials	0.0	United States	large
+43	CSX	34.1	68.94	9.42	8.47	0.68	0.54	1.58	Industrials	0.0	United States	large
+44	TT	191.26	70.57	1.0	1.05	0.67	3.06	1.6	Industrials	0.0	Ireland	large
+45	GRMN	104.29	51.3	0.91	0.67	0.67	1.52	1.46	Industrials	2000.0	Switzerland	large
+46	ITW	250.16	66.47	0.88	0.87	0.66	4.36	1.74	Industrials	0.0	United States	large
+47	LMT	460.38	53.25	0.98	0.84	0.64	6.62	1.44	Industrials	0.0	United States	large
+48	MOS	35.0	47.9	4.14	3.37	0.63	1.25	3.57	Industrials	0.0	United States	large
+49	NDSN	248.18	75.25	0.22	0.26	0.58	4.18	1.68	Industrials	0.0	United States	large
+50	AOS	72.78	65.79	0.45	0.71	0.55	1.23	1.69	Industrials	0.0	United States	large

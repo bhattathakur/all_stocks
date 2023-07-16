@@ -1,31 +1,31 @@
 TICKER,CP,RSI,VOL,AVGVOL,%CHG,ATR,%ATR,SECTOR,IPO,COUNTRY,CATEGORY
-MU,63.11,39.92,31.53,28.38,-1.9,2.22,3.52,Technology,0.0,United States,large
-ODFL,369.75,71.22,1.14,1.14,-1.6,10.96,2.96,Industrials,1991.0,United States,large
-CSGP,89.0,69.83,32.33,9.44,-1.24,2.11,2.37,Consumer_Discretionary,1998.0,United States,large
-ADSK,204.61,49.55,2.09,1.45,-0.76,5.7,2.79,Technology,0.0,United States,large
-EA,129.7,58.53,1.78,1.93,-0.57,2.11,1.63,Technology,0.0,United States,large
-WDAY,225.89,65.0,1.77,2.0,-0.54,5.87,2.6,Technology,0.0,United States,large
-MRNA,121.5,42.46,2.4,2.53,-0.5,3.63,2.99,Health_Care,2018.0,United States,large
-DLTR,143.5,52.44,2.14,2.16,-0.08,2.92,2.03,Consumer_Discretionary,1995.0,United States,large
-MNST,57.44,45.77,4.12,4.26,0.03,0.97,1.69,Consumer_Staples,0.0,United States,large
-LCID,6.89,55.1,73.12,79.33,0.15,0.43,6.24,Consumer_Discretionary,0.0,United States,large
-CMCSA,41.55,60.45,16.27,15.38,0.19,0.66,1.59,Telecommunications,0.0,United States,large
-ASML,724.75,56.28,0.96,0.89,0.19,15.39,2.12,Technology,1995.0,Netherlands,mega
-EBAY,44.69,51.41,5.21,4.2,0.2,0.82,1.83,Consumer_Discretionary,1998.0,United States,large
-AMAT,144.54,65.31,6.14,6.26,0.21,3.51,2.43,Technology,1972.0,United States,large
-JD,34.13,41.19,14.15,9.65,0.32,1.28,3.75,Consumer_Discretionary,2014.0,China,large
-PDD,69.14,45.49,4.79,5.95,0.35,3.62,5.24,Consumer_Discretionary,2018.0,China,large
-SBUX,99.06,43.91,6.23,5.81,0.39,1.59,1.61,Consumer_Discretionary,1992.0,United States,large
-LRCX,642.86,62.94,1.09,1.27,0.39,16.36,2.54,Technology,1984.0,United States,large
-AMGN,222.02,44.73,2.84,2.45,0.39,3.85,1.73,Health_Care,1983.0,United States,large
-ZM,67.88,50.86,2.06,2.48,0.41,2.23,3.29,Technology,2019.0,United States,large
-WBA,28.49,32.63,12.87,21.08,0.42,0.88,3.09,Consumer_Staples,0.0,United States,large
-DXCM,128.51,58.95,2.38,2.5,0.45,3.73,2.9,Health_Care,2005.0,United States,large
-SGEN,192.46,37.53,1.36,1.57,0.49,2.05,1.07,Health_Care,2001.0,United States,large
-HON,207.5,66.72,2.99,2.4,0.5,3.1,1.49,Industrials,0.0,United States,large
-GOOGL,119.7,47.73,29.52,30.84,0.5,2.95,2.46,Technology,2004.0,United States,mega
-INTU,458.19,59.58,1.97,1.45,0.52,11.69,2.55,Technology,1993.0,United States,large
-AVGO,867.43,67.31,2.31,2.25,0.56,21.92,2.53,Technology,2009.0,United States,mega
-FTNT,75.59,67.57,4.58,4.91,0.67,2.09,2.76,Technology,2009.0,United States,large
-CSX,34.1,68.94,9.42,8.47,0.68,0.54,1.58,Industrials,0.0,United States,large
-PEP,185.22,50.38,7.64,5.61,0.73,2.43,1.31,Consumer_Staples,0.0,United States,mega
+LCID,6.7,46.88,54.6,70.15,-5.9,0.52,7.76,Consumer_Discretionary,0.0,United States,large
+WBD,12.4,45.97,17.65,17.41,-5.34,0.5,4.03,Telecommunications,0.0,United States,large
+MRNA,121.35,45.52,4.06,3.02,-4.15,4.0,3.3,Health_Care,2018.0,United States,large
+ADI,191.97,53.8,2.92,2.96,-3.18,4.63,2.41,Technology,0.0,United States,large
+JD,38.14,57.66,10.82,10.67,-3.1,1.37,3.59,Consumer_Discretionary,2014.0,China,large
+MRVL,63.45,61.16,11.41,11.58,-2.94,2.06,3.25,Technology,2000.0,United States,large
+MCHP,89.72,59.38,3.84,4.81,-2.86,2.33,2.6,Technology,1993.0,United States,large
+SIRI,4.75,68.5,15.18,14.66,-2.86,0.18,3.79,Consumer_Discretionary,0.0,United States,large
+RIVN,24.82,75.55,54.45,106.22,-2.74,1.64,6.61,Consumer_Discretionary,2021.0,United States,large
+FANG,135.66,57.05,1.74,1.94,-2.69,3.24,2.39,Energy,2012.0,United States,large
+ENPH,177.94,55.96,3.39,3.7,-2.57,7.57,4.25,Technology,2012.0,United States,large
+CSCO,50.38,47.16,19.56,19.56,-2.23,0.84,1.67,Telecommunications,1990.0,United States,mega
+INTC,33.15,51.93,30.43,33.08,-2.13,1.11,3.35,Technology,0.0,United States,large
+CHTR,375.47,65.39,1.05,0.97,-2.12,8.8,2.34,Telecommunications,0.0,United States,large
+NFLX,441.91,61.33,7.18,5.58,-1.88,11.72,2.65,Consumer_Discretionary,2002.0,United States,large
+NXPI,212.54,66.49,1.97,2.27,-1.84,5.13,2.41,Technology,2010.0,Netherlands,large
+WBA,29.2,41.37,9.53,9.08,-1.82,0.88,3.01,Consumer_Staples,0.0,United States,large
+PDD,79.49,62.93,9.76,11.07,-1.78,3.65,4.59,Consumer_Discretionary,2018.0,China,large
+META,308.87,71.01,22.58,30.84,-1.45,8.34,2.7,Technology,2012.0,United States,mega
+CMCSA,42.01,59.07,12.9,16.63,-1.29,0.69,1.64,Telecommunications,0.0,United States,large
+TXN,180.85,57.71,3.7,4.43,-1.24,3.71,2.05,Technology,0.0,United States,large
+HON,206.14,56.14,2.16,2.67,-1.23,3.1,1.5,Industrials,0.0,United States,large
+ADSK,214.14,59.79,1.19,1.19,-1.13,5.25,2.45,Technology,0.0,United States,large
+NVDA,454.69,69.73,77.07,47.65,-1.1,14.7,3.23,Technology,1999.0,United States,mega
+MAR,189.39,63.52,1.82,1.79,-1.09,3.62,1.91,Consumer_Discretionary,0.0,United States,large
+MELI,1135.72,42.98,0.46,0.66,-0.96,47.52,4.18,Consumer_Discretionary,2007.0,Argentina,large
+BKR,34.35,75.77,5.2,7.16,-0.95,0.84,2.45,Industrials,0.0,United States,large
+ZM,70.59,58.27,3.85,3.42,-0.91,2.0,2.83,Technology,2019.0,United States,large
+CRWD,149.4,53.37,2.64,3.65,-0.9,5.02,3.36,Technology,2019.0,United States,large
+ILMN,187.15,42.92,1.1,1.31,-0.89,5.54,2.96,Health_Care,2000.0,United States,large

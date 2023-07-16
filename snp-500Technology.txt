@@ -1,51 +1,51 @@
 	TICKER	CP	RSI	VOL	AVGVOL	%CHG	ATR	%ATR	SECTOR	IPO	COUNTRY	CATEGORY
-1	SEDG	269.05	48.49	1.16	1.24	5.94	11.57	4.3	Technology	2015.0	Israel	large
-2	ENPH	167.48	46.98	5.16	3.45	5.49	7.33	4.38	Technology	2012.0	United States	large
-3	NVDA	423.02	62.61	50.05	50.4	3.63	14.4	3.4	Technology	1999.0	United States	mega
-4	FSLR	190.09	48.58	1.82	1.47	3.3	6.72	3.54	Technology	2006.0	United States	large
-5	GEHC	81.24	58.09	3.43	2.8	3.25	2.01	2.47	Technology	0.0	United States	large
-6	MCHP	89.59	67.83	5.29	4.3	3.0	2.4	2.68	Technology	1993.0	United States	large
-7	ADI	194.81	63.26	3.38	3.37	2.81	4.47	2.29	Technology	0.0	United States	large
-8	ON	94.58	65.31	5.39	4.64	2.72	2.7	2.85	Technology	0.0	United States	large
-9	CDNS	234.52	59.25	1.92	1.5	2.62	6.13	2.61	Technology	0.0	United States	large
-10	NOW	561.97	62.33	1.32	0.96	2.53	14.09	2.51	Technology	2012.0	United States	mega
-11	NXPI	204.68	66.96	2.52	1.86	2.46	5.74	2.8	Technology	2010.0	Netherlands	large
-12	PAYC	321.24	63.28	0.46	0.46	2.41	8.81	2.74	Technology	2014.0	N-A	large
-13	AMD	113.91	50.74	53.33	61.43	2.4	5.12	4.49	Technology	0.0	United States	large
-14	AAPL	193.97	77.61	85.07	56.29	2.31	2.94	1.52	Technology	1980.0	United States	mega
-15	GE	109.85	67.78	7.38	4.89	1.96	1.95	1.78	Technology	0.0	United States	large
-16	META	286.98	65.17	19.68	20.43	1.94	8.08	2.82	Technology	2012.0	United States	mega
-17	DXC	26.72	57.66	1.73	1.66	1.87	0.65	2.43	Technology	0.0	N-A	medium
-18	TXN	180.02	60.37	6.0	4.86	1.83	3.79	2.11	Technology	0.0	United States	large
-19	APH	84.95	72.62	2.72	2.08	1.8	1.25	1.47	Technology	0.0	United States	large
-20	SNPS	435.41	56.68	0.97	0.75	1.76	9.38	2.15	Technology	1992.0	United States	large
-21	ANET	162.06	55.97	3.0	2.7	1.74	5.78	3.57	Technology	2014.0	N-A	large
-22	CDAY	66.97	57.16	1.21	1.01	1.72	1.99	2.97	Technology	2018.0	United States	medium
-23	MSFT	340.54	59.27	26.82	21.99	1.64	6.6	1.94	Technology	1986.0	United States	mega
-24	MSI	293.28	63.59	0.87	0.59	1.63	4.57	1.56	Technology	0.0	United States	large
-25	KLAC	485.02	65.13	0.91	0.74	1.63	11.55	2.38	Technology	1980.0	United States	large
-26	INTC	33.44	54.35	33.8	35.6	1.61	1.29	3.86	Technology	0.0	United States	large
-27	ADP	219.79	56.45	1.78	1.51	1.54	3.55	1.62	Technology	0.0	United States	large
-28	ATVI	84.3	65.75	6.88	7.38	1.47	1.24	1.47	Technology	0.0	United States	large
-29	JNPR	31.33	56.23	2.66	2.64	1.46	0.7	2.23	Technology	1999.0	United States	medium
-30	VRSN	225.97	58.43	0.37	0.35	1.36	3.36	1.49	Technology	1998.0	United States	large
-31	EMR	90.39	69.82	2.48	2.72	1.31	1.44	1.59	Technology	0.0	United States	large
-32	HPQ	30.71	56.23	8.8	6.52	1.29	0.59	1.92	Technology	0.0	United States	large
-33	ANSS	330.27	58.03	0.58	0.4	1.29	7.18	2.17	Technology	1996.0	United States	large
-34	FDS	400.65	48.83	0.28	0.34	1.29	9.16	2.29	Technology	2000.0	United States	large
-35	TEL	140.16	73.84	1.52	1.27	1.28	2.28	1.63	Technology	0.0	Switzerland	large
-36	VRSK	226.03	61.85	0.96	1.22	1.24	3.49	1.54	Technology	2009.0	United States	large
-37	FLT	251.08	70.52	0.31	0.31	1.22	4.37	1.74	Technology	2010.0	United States	large
-38	TTWO	147.16	76.62	1.09	1.31	1.16	2.42	1.64	Technology	1997.0	United States	large
-39	CTSH	65.28	61.23	2.83	3.47	1.15	1.21	1.85	Technology	1998.0	United States	large
-40	TYL	416.47	71.83	0.2	0.28	1.15	7.5	1.8	Technology	0.0	United States	large
-41	ETN	201.1	67.9	1.75	1.96	1.13	4.08	2.03	Technology	0.0	Ireland	large
-42	ORCL	119.09	62.74	13.7	9.63	1.11	3.57	3.0	Technology	1986.0	United States	mega
-43	ADBE	488.99	69.12	3.1	2.82	1.08	15.18	3.1	Technology	1986.0	United States	mega
-44	HPE	16.8	61.56	9.76	9.28	0.9	0.4	2.38	Technology	2015.0	United States	large
-45	WDC	37.93	46.85	3.25	3.36	0.88	0.99	2.61	Technology	0.0	United States	large
-46	PANW	255.51	72.72	3.39	4.32	0.86	7.08	2.77	Technology	0.0	United States	large
-47	QCOM	119.04	54.57	6.56	6.95	0.83	3.18	2.67	Technology	1991.0	United States	large
-48	MPWR	540.23	63.58	0.43	0.44	0.83	17.17	3.18	Technology	2004.0	United States	large
-49	LDOS	88.48	65.78	0.82	0.8	0.8	1.38	1.56	Technology	0.0	United States	large
-50	GOOG	120.97	49.22	23.87	22.51	0.8	2.93	2.42	Technology	2004.0	United States	mega
+1	ORCL	119.27	62.21	7.72	8.23	1.55	2.43	2.04	Technology	1986.0	United States	mega
+2	PAYC	355.01	78.84	0.71	0.58	1.53	8.48	2.39	Technology	2014.0	N-A	large
+3	CTSH	68.6	71.87	3.18	2.84	1.34	1.16	1.69	Technology	1998.0	United States	large
+4	SNPS	454.11	65.65	0.87	0.95	1.17	9.36	2.06	Technology	1992.0	United States	large
+5	ADP	229.47	67.1	1.19	1.36	1.02	3.71	1.62	Technology	0.0	United States	large
+6	VRSK	228.79	62.52	0.73	0.84	0.97	3.21	1.4	Technology	2009.0	United States	large
+7	MTCH	48.07	78.04	6.01	4.82	0.94	1.26	2.62	Technology	0.0	United States	large
+8	PANW	241.26	52.02	5.66	7.99	0.94	7.32	3.03	Technology	0.0	United States	large
+9	FTNT	78.92	69.1	4.91	5.65	0.86	1.94	2.46	Technology	2009.0	United States	large
+10	WDC	39.66	59.83	7.87	4.03	0.76	1.09	2.75	Technology	0.0	United States	large
+11	MSFT	345.24	61.1	28.3	27.67	0.75	6.86	1.99	Technology	1986.0	United States	mega
+12	GOOGL	125.42	61.16	33.27	33.27	0.71	3.06	2.44	Technology	2004.0	United States	mega
+13	GOOG	125.7	59.96	20.48	25.06	0.7	2.98	2.37	Technology	2004.0	United States	mega
+14	ATVI	90.07	72.24	62.15	39.46	0.59	1.9	2.11	Technology	0.0	United States	large
+15	SEDG	273.56	53.33	0.82	0.75	0.57	10.44	3.82	Technology	2015.0	Israel	large
+16	INTU	483.99	68.79	1.16	1.54	0.55	10.17	2.1	Technology	1993.0	United States	large
+17	GEHC	81.82	58.81	1.77	1.89	0.52	1.53	1.87	Technology	0.0	United States	large
+18	NOW	580.38	66.27	0.92	1.14	0.51	12.7	2.19	Technology	2012.0	United States	mega
+19	CDNS	240.74	62.32	1.3	1.61	0.51	5.71	2.37	Technology	0.0	United States	large
+20	TTWO	150.0	68.81	0.94	1.79	0.48	2.63	1.75	Technology	1997.0	United States	large
+21	EA	137.34	68.53	1.37	2.62	0.46	2.66	1.94	Technology	0.0	United States	large
+22	JKHY	166.75	62.49	0.44	0.4	0.18	2.45	1.47	Technology	1985.0	United States	large
+23	ACN	315.77	61.68	1.3	1.59	0.18	5.98	1.89	Technology	2001.0	Ireland	large
+24	VRSN	216.63	42.14	0.31	0.56	0.1	3.53	1.63	Technology	1998.0	United States	large
+25	AAPL	190.69	62.56	41.57	50.05	0.08	2.61	1.37	Technology	1980.0	United States	mega
+26	AMAT	142.74	58.17	6.06	6.23	0.06	3.62	2.54	Technology	1972.0	United States	large
+27	LRCX	638.56	57.99	0.92	1.16	0.04	16.37	2.56	Technology	1984.0	United States	large
+28	AMD	115.94	53.98	91.85	61.66	0.02	4.19	3.61	Technology	0.0	United States	large
+29	LDOS	89.83	67.33	0.86	0.79	-0.04	1.31	1.46	Technology	0.0	United States	large
+30	AVGO	888.58	66.67	1.85	2.57	-0.2	18.89	2.13	Technology	2009.0	United States	mega
+31	KLAC	474.79	56.59	0.83	0.83	-0.22	12.07	2.54	Technology	1980.0	United States	large
+32	EMR	92.09	67.92	1.74	2.68	-0.25	1.4	1.52	Technology	0.0	United States	large
+33	OTIS	88.72	59.01	0.93	1.52	-0.38	1.3	1.47	Technology	2020.0	N-A	large
+34	MSI	291.06	54.23	0.6	0.63	-0.38	4.48	1.54	Technology	0.0	United States	large
+35	IBM	133.4	52.37	2.86	3.02	-0.39	1.99	1.49	Technology	0.0	United States	large
+36	ETN	203.46	65.54	1.09	1.52	-0.44	3.54	1.74	Technology	0.0	Ireland	large
+37	QCOM	122.56	60.06	7.89	7.58	-0.45	2.99	2.44	Technology	1991.0	United States	large
+38	CRM	229.33	67.81	4.27	6.57	-0.45	4.96	2.16	Technology	2004.0	United States	mega
+39	ADBE	514.83	73.13	2.3	2.91	-0.47	12.35	2.4	Technology	1986.0	United States	mega
+40	PTC	144.67	62.84	0.53	0.55	-0.55	2.58	1.78	Technology	0.0	United States	large
+41	FLT	258.99	70.36	0.39	0.37	-0.58	4.28	1.65	Technology	2010.0	United States	large
+42	MU	64.08	47.94	13.85	13.92	-0.7	1.96	3.06	Technology	0.0	United States	large
+43	STX	61.57	50.65	2.2	1.85	-0.73	1.43	2.32	Technology	2002.0	Ireland	large
+44	FDS	410.73	57.27	0.32	0.37	-0.75	9.97	2.43	Technology	2000.0	United States	large
+45	TEL	141.24	67.92	1.21	1.13	-0.8	2.03	1.44	Technology	0.0	Switzerland	large
+46	ANSS	344.25	65.14	0.32	0.4	-0.87	6.93	2.01	Technology	1996.0	United States	large
+47	GE	110.28	61.8	2.72	3.65	-0.9	1.85	1.68	Technology	0.0	United States	large
+48	GEN	19.01	61.82	2.46	2.93	-1.04	0.39	2.05	Technology	0.0	United States	large
+49	EPAM	241.94	58.63	0.33	0.5	-1.09	7.14	2.95	Technology	2012.0	United States	large
+50	NTAP	77.87	64.64	1.47	1.85	-1.09	1.38	1.77	Technology	1995.0	United States	large

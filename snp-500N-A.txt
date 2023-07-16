@@ -1,4 +1,4 @@
 	TICKER	CP	RSI	VOL	AVGVOL	%CHG	ATR	%ATR	SECTOR	IPO	COUNTRY	CATEGORY
-1	WRK	29.07	53.24	2.16	2.58	1.36	0.81	2.79	N-A	2015.0	United States	medium
-2	BRK-B	341.0	65.53	4.52	3.21	1.21	3.94	1.16	N-A	0.0	United States	mega
-3	PARA	15.91	47.08	8.37	9.06	-0.5	0.63	3.96	N-A	0.0	United States	large
+1	WRK	29.73	57.2	1.94	2.02	-0.44	0.8	2.69	N-A	2015.0	United States	medium
+2	BRK-B	341.09	58.08	2.67	2.82	-0.71	3.52	1.03	N-A	0.0	United States	mega
+3	PARA	15.96	46.45	15.89	12.46	-5.11	0.61	3.82	N-A	0.0	United States	large

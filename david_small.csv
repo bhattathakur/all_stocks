@@ -1,0 +1,4 @@
+TICKER,DAYS_UP,VOLUME_UP,INCREMENT
+CASH,True,True,True
+FMBH,True,True,True
+FINV,True,True,True

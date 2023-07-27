@@ -1,9 +1,0 @@
-TICKER,CP,EMA8,RSI,SMA5,SMA50,SMA200,VOL,AVGVOL,%CHG,ATR,SECTOR,IPO,CATEGORY,%ATR,YAHOO
-PWSC,22.0,20.5,72.4,20.75,18.77,20.11,1.29,0.8,2.95,0.65,Technology,2021.0,medium,2.95,https://finance.yahoo.com/quote/PWSC?p=PWSC&.tsrc=fin-srch
-MLTX,54.27,50.14,74.28,50.3,33.66,18.78,1.53,0.63,8.39,4.76,Health_Care,2020.0,small,8.77,https://finance.yahoo.com/quote/MLTX?p=MLTX&.tsrc=fin-srch
-ADV,2.52,2.42,76.62,2.43,1.99,2.17,0.78,0.61,0.8,0.09,Consumer_Discretionary,2019.0,small,3.57,https://finance.yahoo.com/quote/ADV?p=ADV&.tsrc=fin-srch
-NKLA,2.25,1.71,77.53,1.75,1.01,1.99,385.61,161.19,1.35,0.29,Consumer_Discretionary,2018.0,small,12.89,https://finance.yahoo.com/quote/NKLA?p=NKLA&.tsrc=fin-srch
-ORGO,3.9,3.56,63.56,3.59,3.42,2.82,1.61,0.9,6.27,0.21,Health_Care,2016.0,small,5.38,https://finance.yahoo.com/quote/ORGO?p=ORGO&.tsrc=fin-srch
-CCO,1.69,1.57,72.83,1.62,1.32,1.34,2.79,2.19,0.6,0.08,Consumer_Discretionary,2005.0,small,4.73,https://finance.yahoo.com/quote/CCO?p=CCO&.tsrc=fin-srch
-AEHR,48.96,42.05,69.29,41.75,36.46,29.02,6.73,2.4,18.18,3.0,Industrials,1997.0,small,6.13,https://finance.yahoo.com/quote/AEHR?p=AEHR&.tsrc=fin-srch
-OPCH,32.51,31.53,61.74,31.32,29.69,30.46,2.76,1.76,3.6,0.8,Health_Care,0.0,medium,2.46,https://finance.yahoo.com/quote/OPCH?p=OPCH&.tsrc=fin-srch

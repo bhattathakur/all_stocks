@@ -1,0 +1,31 @@
+TICKER,CP,RSI,VOL,AVGVOL,%CHG,ATR,%ATR,SECTOR,IPO,COUNTRY,CATEGORY
+BKNG,3012.25,70.89,0.18,0.21,1.91,58.4,1.94,Consumer_Discretionary,0.0,United States,large
+MELI,1225.02,54.94,0.42,0.48,4.71,44.31,3.62,Consumer_Discretionary,2007.0,Argentina,large
+LRCX,721.26,71.22,1.8,1.72,2.75,21.26,2.95,Technology,1984.0,United States,large
+ASML,718.37,52.26,0.93,1.08,1.45,21.03,2.93,Technology,1995.0,Netherlands,mega
+AVGO,899.79,60.02,1.77,1.99,0.7,19.02,2.11,Technology,2009.0,United States,mega
+ORLY,928.79,43.08,0.4,0.46,1.0,17.66,1.9,Consumer_Discretionary,1993.0,United States,large
+ALGN,381.9,65.71,1.12,1.61,-0.89,16.23,4.25,Health_Care,2001.0,United States,large
+KLAC,511.01,65.15,1.98,1.26,5.94,16.05,3.14,Technology,1980.0,United States,large
+NVDA,467.5,64.76,32.06,37.43,1.85,14.69,3.14,Technology,1999.0,United States,mega
+NFLX,425.78,47.77,5.97,6.34,3.05,14.22,3.34,Consumer_Discretionary,2002.0,United States,large
+IDXX,552.78,67.27,0.35,0.37,1.25,14.06,2.54,Health_Care,1991.0,United States,large
+REGN,746.1,57.61,0.72,0.6,0.19,13.44,1.8,Health_Care,1991.0,United States,large
+ADBE,528.87,66.61,2.66,2.56,2.9,12.71,2.4,Technology,1986.0,United States,mega
+ODFL,427.58,76.55,1.01,1.02,3.75,12.54,2.93,Industrials,1991.0,United States,large
+INTU,511.84,73.52,1.78,1.51,3.08,11.6,2.27,Technology,1993.0,United States,large
+TSLA,266.44,51.96,108.57,111.48,4.2,11.26,4.23,Consumer_Discretionary,2010.0,United States,mega
+CHTR,396.8,67.74,1.9,1.5,-1.04,10.62,2.68,Telecommunications,0.0,United States,large
+META,325.48,69.53,38.54,38.9,4.42,10.49,3.22,Technology,2012.0,United States,mega
+SNPS,450.9,55.91,0.66,0.72,0.48,9.61,2.13,Technology,1992.0,United States,large
+MSFT,338.37,49.22,27.73,38.81,2.31,9.43,2.79,Technology,1986.0,United States,mega
+ENPH,154.33,35.05,15.59,7.01,-7.48,8.74,5.66,Technology,2012.0,United States,large
+CTAS,502.64,55.42,0.41,0.46,-0.38,8.65,1.72,Consumer_Discretionary,1983.0,United States,large
+TEAM,174.21,50.39,1.75,1.44,2.14,8.27,4.75,Technology,2015.0,Australia,large
+ISRG,326.53,44.37,1.39,1.86,0.92,8.25,2.53,Health_Care,2000.0,United States,large
+LULU,377.96,50.94,1.01,1.0,1.94,7.66,2.03,Consumer_Discretionary,2007.0,Canada,large
+ANSS,338.23,53.27,0.41,0.37,1.17,7.37,2.18,Technology,1996.0,United States,large
+ZS,157.49,58.73,1.19,1.87,1.44,7.14,4.53,Technology,2018.0,United States,large
+COST,563.32,71.77,1.29,1.55,0.27,7.06,1.25,Consumer_Discretionary,0.0,United States,mega
+PANW,248.44,57.07,1.93,2.69,1.29,6.78,2.73,Technology,0.0,United States,large
+VRTX,354.05,54.08,0.67,1.06,1.26,6.42,1.81,Health_Care,1991.0,United States,large

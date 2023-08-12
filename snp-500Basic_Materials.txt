@@ -1,4 +1,4 @@
 	TICKER	CP	RSI	VOL	AVGVOL	%CHG	ATR	%ATR	SECTOR	IPO	COUNTRY	CATEGORY
-1	IP	35.73	76.87	2.94	4.85	0.93	0.82	2.29	Basic_Materials	0.0	United States	large
-2	FCX	43.62	64.23	8.34	14.14	0.76	1.37	3.14	Basic_Materials	0.0	United States	large
-3	NEM	42.42	45.08	4.7	5.79	0.74	1.07	2.52	Basic_Materials	0.0	United States	large
+1	NEM	40.19	38.5	4.24	6.2	0.88	0.98	2.44	Basic_Materials	0.0	United States	large
+2	IP	35.42	62.98	2.32	2.12	-0.37	0.77	2.17	Basic_Materials	0.0	United States	large
+3	FCX	41.42	47.94	8.63	8.76	-2.27	1.28	3.09	Basic_Materials	0.0	United States	large

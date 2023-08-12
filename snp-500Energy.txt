@@ -1,19 +1,19 @@
 	TICKER	CP	RSI	VOL	AVGVOL	%CHG	ATR	%ATR	SECTOR	IPO	COUNTRY	CATEGORY
-1	VLO	129.18	72.32	2.59	3.73	2.96	3.12	2.42	Energy	0.0	United States	large
-2	EQT	42.28	64.88	6.95	7.8	2.08	1.26	2.98	Energy	0.0	United States	large
-3	MPC	131.83	77.63	2.24	2.84	1.74	2.89	2.19	Energy	0.0	United States	large
-4	APA	40.15	69.08	2.69	4.31	1.7	1.18	2.94	Energy	0.0	United States	large
-5	CTRA	27.42	67.19	4.03	5.1	1.67	0.59	2.15	Energy	0.0	United States	large
-6	EOG	130.79	73.63	2.64	2.7	1.58	2.99	2.29	Energy	0.0	United States	large
-7	DVN	53.0	62.62	5.02	6.43	1.49	1.29	2.43	Energy	1985.0	United States	large
-8	PSX	110.34	74.6	1.73	2.76	1.33	2.34	2.12	Energy	0.0	United States	large
-9	PXD	223.32	68.45	1.0	1.44	1.21	4.55	2.04	Energy	0.0	United States	large
-10	MRO	26.1	67.74	7.06	11.08	0.93	0.65	2.49	Energy	0.0	United States	large
-11	FANG	145.64	68.79	1.66	2.0	0.89	3.3	2.27	Energy	2012.0	United States	large
-12	HES	149.01	69.25	1.09	2.22	0.74	3.86	2.59	Energy	0.0	United States	large
-13	HAL	38.16	64.65	5.76	7.91	0.61	1.14	2.99	Energy	0.0	United States	large
-14	OXY	62.08	59.98	5.47	8.48	0.37	1.33	2.14	Energy	0.0	United States	large
-15	SLB	57.15	67.32	6.28	8.69	0.23	1.46	2.55	Energy	0.0	France	large
-16	COP	115.98	69.18	2.36	3.72	0.17	2.5	2.16	Energy	0.0	United States	large
-17	CVX	158.8	53.38	5.12	6.83	-0.54	3.02	1.9	Energy	0.0	United States	mega
-18	XOM	104.19	48.63	15.27	15.46	-1.17	2.15	2.06	Energy	0.0	United States	mega
+1	OXY	65.84	70.43	17.1	10.33	3.31	1.5	2.28	Energy	0.0	United States	large
+2	VLO	139.06	78.97	3.41	3.64	3.11	3.64	2.62	Energy	0.0	United States	large
+3	MPC	149.75	90.91	4.39	4.33	3.08	3.52	2.35	Energy	0.0	United States	large
+4	MRO	26.84	68.18	10.5	11.1	2.29	0.68	2.53	Energy	0.0	United States	large
+5	CVX	164.15	62.85	6.68	9.25	2.06	3.26	1.99	Energy	0.0	United States	mega
+6	PSX	116.64	77.22	2.56	2.97	1.72	2.67	2.29	Energy	0.0	United States	large
+7	COP	117.81	65.88	3.77	4.02	1.71	2.57	2.18	Energy	0.0	United States	large
+8	APA	44.88	77.15	4.15	4.45	1.65	1.33	2.96	Energy	0.0	United States	large
+9	XOM	111.83	68.25	14.04	15.26	1.55	2.16	1.93	Energy	0.0	United States	mega
+10	SLB	59.65	69.54	7.09	8.33	1.24	1.39	2.33	Energy	0.0	France	large
+11	EOG	132.33	66.18	1.85	2.88	0.98	3.12	2.36	Energy	0.0	United States	large
+12	HAL	40.7	72.92	6.47	6.97	0.84	1.01	2.48	Energy	0.0	United States	large
+13	CTRA	28.05	63.08	5.62	8.13	0.83	0.66	2.35	Energy	0.0	United States	large
+14	HES	157.68	74.42	1.02	1.35	0.71	3.74	2.37	Energy	0.0	United States	large
+15	EQT	43.05	61.16	2.62	6.36	0.61	1.32	3.07	Energy	0.0	United States	large
+16	PXD	236.76	75.24	1.58	1.45	0.36	5.0	2.11	Energy	0.0	United States	large
+17	FANG	149.66	70.47	1.65	1.8	-0.03	3.0	2.0	Energy	2012.0	United States	large
+18	DVN	50.41	47.21	9.47	7.33	-0.69	1.41	2.8	Energy	1985.0	United States	large
